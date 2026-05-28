@@ -8,7 +8,7 @@ Written in Rust, it supports both IPv4 and IPv6 destinations and allows you to w
 
 ```bash
 # Clone the repository
-git clone https://github.com/magokstad/wakeonwan.git
+git clone https://github.com/QuiescentTrip/wakeonwan.git
 cd wakeonwan
 
 # Build (release mode)
